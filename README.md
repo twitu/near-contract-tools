@@ -256,3 +256,7 @@ First, run `git config core.hooksPath hooks/` to install the hooks of this direc
 ## Authors
 
 - Jacob Lindahl [@sudo_build](https://twitter.com/sudo_build)
+
+
+* Hard to figure out which imports are needed to derive a macro - simple example will help
+* Multi-sig approvals are hard to use. It's unclear if multiple roles i.e. a role enum can be passed or only a specific role can participate in an approval - documentation can be improved
